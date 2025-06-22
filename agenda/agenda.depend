@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1750621478 source:h:\prog_em_c\agenda\agenda\agenda.c
+	"agenda.h"
+
+1750620430 h:\prog_em_c\agenda\agenda\agenda.h
+	<stdio.h>
+	<stdlib.h>
+
+1750624208 source:h:\prog_em_c\agenda\agenda\main.c
+	"agenda.h"
+
